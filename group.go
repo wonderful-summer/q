@@ -1,7 +1,7 @@
 package q
 
 import (
-	qt "github.com/Wonderful-Summer/q-type"
+	qt "github.com/wonderful-summer/q-type"
 	"net/http"
 	"path"
 )

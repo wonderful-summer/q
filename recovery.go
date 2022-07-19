@@ -2,7 +2,7 @@ package q
 
 import (
 	"fmt"
-	qt "github.com/Wonderful-Summer/q-type"
+	qt "github.com/wonderful-summer/q-type"
 	"log"
 	"net/http"
 	"runtime"

@@ -3,7 +3,7 @@ package q
 import (
 	"bytes"
 	"fmt"
-	qt "github.com/Wonderful-Summer/q-type"
+	qt "github.com/wonderful-summer/q-type"
 	"html/template"
 )
 
